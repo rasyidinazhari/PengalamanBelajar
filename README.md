@@ -33,3 +33,11 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+**8 September 2023**  
+
+Belajar kelas Memulai Pemrograman dengan Haskell, UX design, AWS. (Progres 100%)
+
+  * Belajar Fundamental pemrograman Haskell (Progres 100%)
+  * Belajar Fundamental UX Design tentang design system (Progres 50%)
+  * Belajar Fundamental AWS tentang Cloud Computing (Progres 10%)
